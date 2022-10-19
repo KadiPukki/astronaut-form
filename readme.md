@@ -1,7 +1,7 @@
 ### The project
 
 This was one of the first projects I created when I started learning HTML and CSS.
-It's a simple form so that the user doesn't need a lot of time to fill in their information.
+It's a simple form so the user doesn't need a lot of time to fill it with their information.
 I used an astronaut illustration from the Storyset website to make the page more attractive.
 
 ### Screenshot
